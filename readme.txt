@@ -1,4 +1,4 @@
-this for test
-git test demo
-add another line to the file
-lskjfwoie sjdfkl wioer
+this is for new file.
+now im testing again full carefully.
+this time i follow full instraction
+so i hope this time it will work properly
