@@ -4,3 +4,5 @@ this time i follow full instraction
 so i hope this time it will work properly
 still im confused
 why this changes is not stages for commit.
+WoW! its working perfectly
+
